@@ -5,8 +5,12 @@ while(pizza > 0){
 }
  */
 
-var pizza = 8
+/* var pizza = 8
 do{
         pizza--
         console.log(`Comi um pedaço, agora sombraram ${pizza} pedaços da pizza!`)
-} while(pizza > 0)
+} while(pizza > 0) */
+
+for (var c = 1; c <= 5; c++){
+        console.log(c)
+}
