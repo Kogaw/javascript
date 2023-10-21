@@ -23,3 +23,7 @@ footer{
     color: white;
     text-align: center;
 }
+
+select#flista{
+    width: 10em;
+}
